@@ -441,7 +441,7 @@ body {
  <!-- NAVBAR -->
 <nav class="navbar navbar-expand-lg fixed-top">
   <div class="container">
-    <a class="navbar-brand d-flex align-items-center gap-2" href="./index.php">
+    <a class="navbar-brand d-flex align-items-center gap-2" href="./login.php">
       <img src="./image/hotellogo.png" width="45" alt="Logo" class="rounded-circle border border-2 border-light">
       <span class="hotel-brand">MeeHotel</span>
     </a>
